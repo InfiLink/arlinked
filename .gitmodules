@@ -1,0 +1,3 @@
+[submodule "arlinked-can"]
+	path = src/common/can
+	url = git@github.com:arlinked/arlinked-can.git
